@@ -9,7 +9,7 @@ import com.yash.trmapp.util.MainMenu;
 
 /**
  * This is Main class for application launching
- * @author SUNIL
+ * @author Omkar
  *
  */
 public class TrainingRequestMain

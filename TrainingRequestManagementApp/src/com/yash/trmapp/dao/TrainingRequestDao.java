@@ -4,7 +4,7 @@ import com.yash.trmapp.domain.TrainingRequest;
 
 /**
  * This is interface for traningRequestsDao
- * @author SUNIL
+ * @author Omkar
  *
  */
 public interface TrainingRequestDao {

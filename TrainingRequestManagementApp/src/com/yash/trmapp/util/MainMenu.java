@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * This class is for displaying different options for TraningReqest
- * @author SUNIL
+ * @author Omkar
  *
  */
 public class MainMenu {

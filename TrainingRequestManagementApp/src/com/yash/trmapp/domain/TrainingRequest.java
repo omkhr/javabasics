@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * This class is all about training request 
- * @author SUNIL
+ * @author Omkar
  *
  */
 public class TrainingRequest {
